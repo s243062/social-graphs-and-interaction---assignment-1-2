@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2025-10-29">
+  <meta lastmodifieddate="2025-11-02">
     <creator>NetworkX 3.5</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -36,8 +36,8 @@
       <node id="Jimi_Hendrix" label="Jimi_Hendrix">
         <attvalues>
           <attvalue for="0" value="13471" />
-          <attvalue for="1" value="rock music, rock, psychedelic rock, blues, rhythm and blues" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, psychedelic rock, blues, rhythm and blues" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.452744153455374" />
           <attvalue for="4" value="13097" />
           <attvalue for="5" value="11417" />
@@ -46,8 +46,8 @@
       <node id="Sly_and_the_Family_Stone" label="Sly_and_the_Family_Stone">
         <attvalues>
           <attvalue for="0" value="5015" />
-          <attvalue for="1" value="psychedelic soul, rock music, rock" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="psychedelic soul, rock" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.488176470588235" />
           <attvalue for="4" value="4689" />
           <attvalue for="5" value="4080" />
@@ -76,8 +76,8 @@
       <node id="Metallica" label="Metallica">
         <attvalues>
           <attvalue for="0" value="11433" />
-          <attvalue for="1" value="heavy metal music, heavy metal, thrash metal, speed metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="heavy metal, thrash metal, speed metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.494445262383006" />
           <attvalue for="4" value="10845" />
           <attvalue for="5" value="9509" />
@@ -96,8 +96,8 @@
       <node id="Anthrax_(American_band)" label="Anthrax_(American_band)">
         <attvalues>
           <attvalue for="0" value="5263" />
-          <attvalue for="1" value="thrash metal, heavy metal music, heavy metal, groove metal, alternative metal" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="thrash metal, heavy metal, groove metal, alternative metal" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.470181241504305" />
           <attvalue for="4" value="5020" />
           <attvalue for="5" value="4414" />
@@ -106,8 +106,8 @@
       <node id="Iron_Maiden" label="Iron_Maiden">
         <attvalues>
           <attvalue for="0" value="11669" />
-          <attvalue for="1" value="heavy metal music, heavy metal" />
-          <attvalue for="2" value="2" />
+          <attvalue for="1" value="heavy metal" />
+          <attvalue for="2" value="1" />
           <attvalue for="3" value="5.571145777299623" />
           <attvalue for="4" value="10759" />
           <attvalue for="5" value="9295" />
@@ -116,8 +116,8 @@
       <node id="Black_Sabbath" label="Black_Sabbath">
         <attvalues>
           <attvalue for="0" value="13641" />
-          <attvalue for="1" value="heavy metal music, heavy metal" />
-          <attvalue for="2" value="2" />
+          <attvalue for="1" value="heavy metal" />
+          <attvalue for="2" value="1" />
           <attvalue for="3" value="5.411356801093643" />
           <attvalue for="4" value="13106" />
           <attvalue for="5" value="11704" />
@@ -126,8 +126,8 @@
       <node id="Judas_Priest" label="Judas_Priest">
         <attvalues>
           <attvalue for="0" value="8878" />
-          <attvalue for="1" value="heavy metal music, heavy metal" />
-          <attvalue for="2" value="2" />
+          <attvalue for="1" value="heavy metal" />
+          <attvalue for="2" value="1" />
           <attvalue for="3" value="5.461248971757609" />
           <attvalue for="4" value="8120" />
           <attvalue for="5" value="7294" />
@@ -136,8 +136,8 @@
       <node id="Scorpions_(band)" label="Scorpions_(band)">
         <attvalues>
           <attvalue for="0" value="5067" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="hard rock, heavy metal" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.55650542708825" />
           <attvalue for="4" value="4740" />
           <attvalue for="5" value="4238" />
@@ -146,8 +146,8 @@
       <node id="W.A.S.P._(band)" label="W.A.S.P._(band)">
         <attvalues>
           <attvalue for="0" value="3113" />
-          <attvalue for="1" value="heavy metal music, heavy metal, shock rock" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="heavy metal, shock rock" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.416301319648094" />
           <attvalue for="4" value="3000" />
           <attvalue for="5" value="2728" />
@@ -156,8 +156,8 @@
       <node id="Alice_in_Chains" label="Alice_in_Chains">
         <attvalues>
           <attvalue for="0" value="10807" />
-          <attvalue for="1" value="grunge, alternative metal, heavy metal music, heavy metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="grunge, alternative metal, heavy metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.486993598784855" />
           <attvalue for="4" value="10221" />
           <attvalue for="5" value="9217" />
@@ -166,8 +166,8 @@
       <node id="Ozzy_Osbourne" label="Ozzy_Osbourne">
         <attvalues>
           <attvalue for="0" value="11093" />
-          <attvalue for="1" value="heavy metal music, heavy metal, hard rock" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="heavy metal, hard rock" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.423635470132139" />
           <attvalue for="4" value="10542" />
           <attvalue for="5" value="9157" />
@@ -236,8 +236,8 @@
       <node id="Trivium_(band)" label="Trivium_(band)">
         <attvalues>
           <attvalue for="0" value="4378" />
-          <attvalue for="1" value="heavy metal music, heavy metal, thrash metal, metalcore, progressive metal" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="heavy metal, thrash metal, metalcore, progressive metal" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.4977346101231195" />
           <attvalue for="4" value="4145" />
           <attvalue for="5" value="3655" />
@@ -256,8 +256,8 @@
       <node id="Volbeat" label="Volbeat">
         <attvalues>
           <attvalue for="0" value="2032" />
-          <attvalue for="1" value="heavy metal music, heavy metal, hard rock, rockabilly, psychobilly, groove metal" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="heavy metal, hard rock, rockabilly, psychobilly, groove metal" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.634063116370808" />
           <attvalue for="4" value="1780" />
           <attvalue for="5" value="1521" />
@@ -266,8 +266,8 @@
       <node id="Led_Zeppelin" label="Led_Zeppelin">
         <attvalues>
           <attvalue for="0" value="7633" />
-          <attvalue for="1" value="hard rock, blues rock, folk rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="hard rock, blues rock, folk rock, heavy metal" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.504433036388344" />
           <attvalue for="4" value="7349" />
           <attvalue for="5" value="6623" />
@@ -276,8 +276,8 @@
       <node id="Deep_Purple" label="Deep_Purple">
         <attvalues>
           <attvalue for="0" value="10917" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal, progressive rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="hard rock, heavy metal, progressive rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.497273738047587" />
           <attvalue for="4" value="10254" />
           <attvalue for="5" value="8994" />
@@ -286,8 +286,8 @@
       <node id="Kiss_(band)" label="Kiss_(band)">
         <attvalues>
           <attvalue for="0" value="12769" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal, shock rock, glam rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="hard rock, heavy metal, shock rock, glam rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.531198889916744" />
           <attvalue for="4" value="12045" />
           <attvalue for="5" value="10810" />
@@ -296,8 +296,8 @@
       <node id="Van_Halen" label="Van_Halen">
         <attvalues>
           <attvalue for="0" value="8416" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal, pop rock, arena rock, glam metal" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="hard rock, heavy metal, pop rock, arena rock, glam metal" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.468513382332547" />
           <attvalue for="4" value="8029" />
           <attvalue for="5" value="7211" />
@@ -306,8 +306,8 @@
       <node id="Aerosmith" label="Aerosmith">
         <attvalues>
           <attvalue for="0" value="12074" />
-          <attvalue for="1" value="hard rock, blues rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="hard rock, blues rock, heavy metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.507182950191571" />
           <attvalue for="4" value="11349" />
           <attvalue for="5" value="10440" />
@@ -326,8 +326,8 @@
       <node id="Rush_(band)" label="Rush_(band)">
         <attvalues>
           <attvalue for="0" value="10557" />
-          <attvalue for="1" value="progressive rock, hard rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="progressive rock, hard rock, heavy metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.5011589213998855" />
           <attvalue for="4" value="9878" />
           <attvalue for="5" value="8715" />
@@ -336,8 +336,8 @@
       <node id="Rainbow_(rock_band)" label="Rainbow_(rock_band)">
         <attvalues>
           <attvalue for="0" value="3133" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="hard rock, heavy metal" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.547535687453043" />
           <attvalue for="4" value="2993" />
           <attvalue for="5" value="2662" />
@@ -346,8 +346,8 @@
       <node id="Accept_(band)" label="Accept_(band)">
         <attvalues>
           <attvalue for="0" value="2901" />
-          <attvalue for="1" value="heavy metal music, heavy metal" />
-          <attvalue for="2" value="2" />
+          <attvalue for="1" value="heavy metal" />
+          <attvalue for="2" value="1" />
           <attvalue for="3" value="5.521691805951896" />
           <attvalue for="4" value="2739" />
           <attvalue for="5" value="2453" />
@@ -356,8 +356,8 @@
       <node id="Avenged_Sevenfold" label="Avenged_Sevenfold">
         <attvalues>
           <attvalue for="0" value="6795" />
-          <attvalue for="1" value="heavy metal music, heavy metal, progressive metal, alternative metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="heavy metal, progressive metal, alternative metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.554704508712053" />
           <attvalue for="4" value="6318" />
           <attvalue for="5" value="5567" />
@@ -366,8 +366,8 @@
       <node id="Bullet_for_My_Valentine" label="Bullet_for_My_Valentine">
         <attvalues>
           <attvalue for="0" value="4502" />
-          <attvalue for="1" value="melodic metalcore, heavy metal music, heavy metal" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="melodic metalcore, heavy metal" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.4924693291568785" />
           <attvalue for="4" value="4133" />
           <attvalue for="5" value="3831" />
@@ -416,8 +416,8 @@
       <node id="Meat_Loaf" label="Meat_Loaf">
         <attvalues>
           <attvalue for="0" value="6472" />
-          <attvalue for="1" value="rock music, rock, hard rock" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="rock, hard rock" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.450846280387498" />
           <attvalue for="4" value="6079" />
           <attvalue for="5" value="5471" />
@@ -446,8 +446,8 @@
       <node id="Little_Richard" label="Little_Richard">
         <attvalues>
           <attvalue for="0" value="10847" />
-          <attvalue for="1" value="rock and roll, rhythm and blues, gospel music, gospel, soul music, soul" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock and roll, rhythm and blues, gospel, soul" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.487375262054507" />
           <attvalue for="4" value="10528" />
           <attvalue for="5" value="9540" />
@@ -456,8 +456,8 @@
       <node id="Frank_Zappa" label="Frank_Zappa">
         <attvalues>
           <attvalue for="0" value="13817" />
-          <attvalue for="1" value="rock music, rock, progressive rock, blues, experimental music, experimental, jazz, jazz fusion, fusion, classical music, classical, pop music, pop, avant-garde music, avant-garde, doo-wop, comedy music, comedy, electronic music, electronic, musique concrète" />
-          <attvalue for="2" value="21" />
+          <attvalue for="1" value="rock, progressive rock, blues, experimental, jazz, jazz fusion, fusion, classical, pop, avant-garde, doo-wop, comedy, electronic, musique concrète" />
+          <attvalue for="2" value="14" />
           <attvalue for="3" value="5.479085275377498" />
           <attvalue for="4" value="13258" />
           <attvalue for="5" value="11457" />
@@ -516,8 +516,8 @@
       <node id="Skid_Row_(American_band)" label="Skid_Row_(American_band)">
         <attvalues>
           <attvalue for="0" value="2819" />
-          <attvalue for="1" value="heavy metal music, heavy metal, hard rock, glam metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="heavy metal, hard rock, glam metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.38857800083647" />
           <attvalue for="4" value="2706" />
           <attvalue for="5" value="2391" />
@@ -546,8 +546,8 @@
       <node id="Kid_Rock" label="Kid_Rock">
         <attvalues>
           <attvalue for="0" value="5968" />
-          <attvalue for="1" value="rock music, rock, hip-hop, country music, country, heavy metal music, heavy metal" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="rock, hip-hop, country, heavy metal" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.580299377916019" />
           <attvalue for="4" value="5684" />
           <attvalue for="5" value="5144" />
@@ -556,8 +556,8 @@
       <node id="Paul_McCartney" label="Paul_McCartney">
         <attvalues>
           <attvalue for="0" value="16487" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, classical music, classical, electronic music, electronic" />
-          <attvalue for="2" value="8" />
+          <attvalue for="1" value="rock, pop, classical, electronic" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.554430653773993" />
           <attvalue for="4" value="15758" />
           <attvalue for="5" value="13858" />
@@ -586,8 +586,8 @@
       <node id="Guns_N'_Roses" label="Guns_N'_Roses">
         <attvalues>
           <attvalue for="0" value="11354" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="hard rock, heavy metal" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.446917933130699" />
           <attvalue for="4" value="10907" />
           <attvalue for="5" value="9870" />
@@ -596,8 +596,8 @@
       <node id="Twisted_Sister" label="Twisted_Sister">
         <attvalues>
           <attvalue for="0" value="4006" />
-          <attvalue for="1" value="heavy metal music, heavy metal, glam metal, hard rock, shock rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="heavy metal, glam metal, hard rock, shock rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.453982583454282" />
           <attvalue for="4" value="3783" />
           <attvalue for="5" value="3445" />
@@ -606,8 +606,8 @@
       <node id="Warrant_(American_band)" label="Warrant_(American_band)">
         <attvalues>
           <attvalue for="0" value="2721" />
-          <attvalue for="1" value="glam metal, hard rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="glam metal, hard rock, heavy metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.553841326759301" />
           <attvalue for="4" value="2549" />
           <attvalue for="5" value="2231" />
@@ -626,8 +626,8 @@
       <node id="Ratt" label="Ratt">
         <attvalues>
           <attvalue for="0" value="3425" />
-          <attvalue for="1" value="glam metal, heavy metal music, heavy metal, hard rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="glam metal, heavy metal, hard rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.465057595392369" />
           <attvalue for="4" value="3234" />
           <attvalue for="5" value="2778" />
@@ -656,8 +656,8 @@
       <node id="Quiet_Riot" label="Quiet_Riot">
         <attvalues>
           <attvalue for="0" value="6113" />
-          <attvalue for="1" value="heavy metal music, heavy metal, hard rock, glam metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="heavy metal, hard rock, glam metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.455834843907351" />
           <attvalue for="4" value="5799" />
           <attvalue for="5" value="4965" />
@@ -676,8 +676,8 @@
       <node id="Train_(band)" label="Train_(band)">
         <attvalues>
           <attvalue for="0" value="4889" />
-          <attvalue for="1" value="rock music, rock, alternative rock, pop rock, roots rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, alternative rock, pop rock, roots rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.632167076167077" />
           <attvalue for="4" value="4482" />
           <attvalue for="5" value="4070" />
@@ -686,8 +686,8 @@
       <node id="Dave_Matthews_Band" label="Dave_Matthews_Band">
         <attvalues>
           <attvalue for="0" value="6227" />
-          <attvalue for="1" value="rock music, rock, jam rock" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="rock, jam rock" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.554147189491983" />
           <attvalue for="4" value="5745" />
           <attvalue for="5" value="5177" />
@@ -736,8 +736,8 @@
       <node id="The_Dave_Clark_Five" label="The_Dave_Clark_Five">
         <attvalues>
           <attvalue for="0" value="1680" />
-          <attvalue for="1" value="rock and roll, beat, pop music, pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock and roll, beat, pop" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.472598828696925" />
           <attvalue for="4" value="1555" />
           <attvalue for="5" value="1366" />
@@ -746,8 +746,8 @@
       <node id="Manfred_Mann" label="Manfred_Mann">
         <attvalues>
           <attvalue for="0" value="1945" />
-          <attvalue for="1" value="blues rock, british rhythm and blues, rhythm and blues, pop music, pop, psychedelic rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="blues rock, british rhythm and blues, rhythm and blues, pop, psychedelic rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.452066420664206" />
           <attvalue for="4" value="1855" />
           <attvalue for="5" value="1626" />
@@ -766,8 +766,8 @@
       <node id="Joan_Jett" label="Joan_Jett">
         <attvalues>
           <attvalue for="0" value="4528" />
-          <attvalue for="1" value="rock music, rock, hard rock, punk rock vocals, guitar" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, hard rock, punk rock vocals, guitar" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.53408335531522" />
           <attvalue for="4" value="4312" />
           <attvalue for="5" value="3791" />
@@ -796,8 +796,8 @@
       <node id="Billy_Joel" label="Billy_Joel">
         <attvalues>
           <attvalue for="0" value="10395" />
-          <attvalue for="1" value="rock music, rock, soft rock, pop rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, soft rock, pop rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.505754339118825" />
           <attvalue for="4" value="9781" />
           <attvalue for="5" value="8988" />
@@ -806,8 +806,8 @@
       <node id="Keane_(band)" label="Keane_(band)">
         <attvalues>
           <attvalue for="0" value="5320" />
-          <attvalue for="1" value="alternative rock, rock music, rock, post-britpop, soft rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="alternative rock, rock, post-britpop, soft rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.568534382959018" />
           <attvalue for="4" value="4862" />
           <attvalue for="5" value="4319" />
@@ -826,8 +826,8 @@
       <node id="U2" label="U2">
         <attvalues>
           <attvalue for="0" value="14265" />
-          <attvalue for="1" value="rock music, rock, alternative rock, pop rock, post-punk" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, alternative rock, pop rock, post-punk" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.491882599580713" />
           <attvalue for="4" value="13375" />
           <attvalue for="5" value="11925" />
@@ -846,8 +846,8 @@
       <node id="Depeche_Mode" label="Depeche_Mode">
         <attvalues>
           <attvalue for="0" value="7951" />
-          <attvalue for="1" value="synth-pop, alternative dance, alternative rock, dance-rock, dark wave, electronic dance music, edm, electronic rock, industrial music, industrial, new wave music, new wave, pop rock, post-punk" />
-          <attvalue for="2" value="14" />
+          <attvalue for="1" value="synth-pop, alternative dance, alternative rock, dance-rock, dark wave, electronic dance, edm, electronic rock, industrial, new wave, pop rock, post-punk" />
+          <attvalue for="2" value="12" />
           <attvalue for="3" value="5.526468606431854" />
           <attvalue for="4" value="7244" />
           <attvalue for="5" value="6530" />
@@ -866,8 +866,8 @@
       <node id="Queen_(band)" label="Queen_(band)">
         <attvalues>
           <attvalue for="0" value="15518" />
-          <attvalue for="1" value="rock music, rock, pop music, pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, pop" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.554139464756879" />
           <attvalue for="4" value="14506" />
           <attvalue for="5" value="13265" />
@@ -966,8 +966,8 @@
       <node id="Nine_Inch_Nails" label="Nine_Inch_Nails">
         <attvalues>
           <attvalue for="0" value="10075" />
-          <attvalue for="1" value="industrial rock, industrial music, industrial, alternative rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="industrial rock, industrial, alternative rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.452031631585068" />
           <attvalue for="4" value="9638" />
           <attvalue for="5" value="8599" />
@@ -1056,8 +1056,8 @@
       <node id="The_Clash" label="The_Clash">
         <attvalues>
           <attvalue for="0" value="7663" />
-          <attvalue for="1" value="punk rock, new wave music, new wave, post-punk" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="punk rock, new wave, post-punk" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.447488144408751" />
           <attvalue for="4" value="7362" />
           <attvalue for="5" value="6537" />
@@ -1096,8 +1096,8 @@
       <node id="Avril_Lavigne" label="Avril_Lavigne">
         <attvalues>
           <attvalue for="0" value="7750" />
-          <attvalue for="1" value="pop-punk, alternative rock, pop rock, pop music, pop" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="pop-punk, alternative rock, pop rock, pop" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.582596475235491" />
           <attvalue for="4" value="7401" />
           <attvalue for="5" value="6582" />
@@ -1106,8 +1106,8 @@
       <node id="Cheap_Trick" label="Cheap_Trick">
         <attvalues>
           <attvalue for="0" value="2892" />
-          <attvalue for="1" value="power pop, hard rock, rock music, rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="power pop, hard rock, rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.456653796653797" />
           <attvalue for="4" value="2582" />
           <attvalue for="5" value="2331" />
@@ -1146,8 +1146,8 @@
       <node id="AC_DC" label="AC_DC">
         <attvalues>
           <attvalue for="0" value="8457" />
-          <attvalue for="1" value="hard rock, blues rock, rock and roll, heavy metal music, heavy metal" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="hard rock, blues rock, rock and roll, heavy metal" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.461757322175733" />
           <attvalue for="4" value="8029" />
           <attvalue for="5" value="7170" />
@@ -1166,8 +1166,8 @@
       <node id="Lou_Reed" label="Lou_Reed">
         <attvalues>
           <attvalue for="0" value="5905" />
-          <attvalue for="1" value="rock music, rock, art rock, proto-punk, glam rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, art rock, proto-punk, glam rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.488025029331247" />
           <attvalue for="4" value="5626" />
           <attvalue for="5" value="5114" />
@@ -1186,8 +1186,8 @@
       <node id="Dio_(band)" label="Dio_(band)">
         <attvalues>
           <attvalue for="0" value="2305" />
-          <attvalue for="1" value="heavy metal music, heavy metal" />
-          <attvalue for="2" value="2" />
+          <attvalue for="1" value="heavy metal" />
+          <attvalue for="2" value="1" />
           <attvalue for="3" value="5.444495461825948" />
           <attvalue for="4" value="2149" />
           <attvalue for="5" value="1873" />
@@ -1196,8 +1196,8 @@
       <node id="Thin_Lizzy" label="Thin_Lizzy">
         <attvalues>
           <attvalue for="0" value="8034" />
-          <attvalue for="1" value="hard rock, blues rock, heavy metal music, heavy metal, folk rock (early)" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="hard rock, blues rock, heavy metal, folk rock (early)" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.433290730130748" />
           <attvalue for="4" value="7704" />
           <attvalue for="5" value="6807" />
@@ -1216,8 +1216,8 @@
       <node id="Robert_Plant" label="Robert_Plant">
         <attvalues>
           <attvalue for="0" value="6136" />
-          <attvalue for="1" value="rock music, rock, blues, folk music, folk, country music, country, hard rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="10" />
+          <attvalue for="1" value="rock, blues, folk, country, hard rock, heavy metal" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.596322481217491" />
           <attvalue for="4" value="5789" />
           <attvalue for="5" value="5191" />
@@ -1266,8 +1266,8 @@
       <node id="Peter_Frampton" label="Peter_Frampton">
         <attvalues>
           <attvalue for="0" value="4128" />
-          <attvalue for="1" value="rock music, rock" />
-          <attvalue for="2" value="2" />
+          <attvalue for="1" value="rock" />
+          <attvalue for="2" value="1" />
           <attvalue for="3" value="5.524466414655423" />
           <attvalue for="4" value="3900" />
           <attvalue for="5" value="3439" />
@@ -1286,8 +1286,8 @@
       <node id="Phil_Collins" label="Phil_Collins">
         <attvalues>
           <attvalue for="0" value="12040" />
-          <attvalue for="1" value="pop music, pop, soft rock, progressive rock, art rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="pop, soft rock, progressive rock, art rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.473562553352935" />
           <attvalue for="4" value="11555" />
           <attvalue for="5" value="10543" />
@@ -1316,8 +1316,8 @@
       <node id="Heart_(band)" label="Heart_(band)">
         <attvalues>
           <attvalue for="0" value="4434" />
-          <attvalue for="1" value="rock music, rock, hard rock, folk rock, pop rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, hard rock, folk rock, pop rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.5628187383550705" />
           <attvalue for="4" value="4125" />
           <attvalue for="5" value="3757" />
@@ -1326,8 +1326,8 @@
       <node id="Eagles_(band)" label="Eagles_(band)">
         <attvalues>
           <attvalue for="0" value="8547" />
-          <attvalue for="1" value="rock music, rock, country rock, soft rock, folk rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, country rock, soft rock, folk rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.524129718394248" />
           <attvalue for="4" value="7570" />
           <attvalue for="5" value="6676" />
@@ -1356,8 +1356,8 @@
       <node id="Steppenwolf_(band)" label="Steppenwolf_(band)">
         <attvalues>
           <attvalue for="0" value="2141" />
-          <attvalue for="1" value="psychedelic rock, blues rock, acid rock, hard rock, heavy metal music, heavy metal, garage rock" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="psychedelic rock, blues rock, acid rock, hard rock, heavy metal, garage rock" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.473983786913723" />
           <attvalue for="4" value="2000" />
           <attvalue for="5" value="1727" />
@@ -1366,8 +1366,8 @@
       <node id="Eddie_Cochran" label="Eddie_Cochran">
         <attvalues>
           <attvalue for="0" value="3529" />
-          <attvalue for="1" value="rock and roll, rockabilly, country music, country, rhythm and blues" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock and roll, rockabilly, country, rhythm and blues" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.463843548933288" />
           <attvalue for="4" value="3385" />
           <attvalue for="5" value="2953" />
@@ -1396,8 +1396,8 @@
       <node id="Eric_Clapton" label="Eric_Clapton">
         <attvalues>
           <attvalue for="0" value="12556" />
-          <attvalue for="1" value="rock music, rock, blues" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="rock, blues" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.491493727511426" />
           <attvalue for="4" value="11864" />
           <attvalue for="5" value="10283" />
@@ -1406,8 +1406,8 @@
       <node id="Don_Henley" label="Don_Henley">
         <attvalues>
           <attvalue for="0" value="3481" />
-          <attvalue for="1" value="rock music, rock, country rock, pop rock, hard rock, folk rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, country rock, pop rock, hard rock, folk rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.48524501520784" />
           <attvalue for="4" value="3319" />
           <attvalue for="5" value="2959" />
@@ -1416,8 +1416,8 @@
       <node id="Glenn_Frey" label="Glenn_Frey">
         <attvalues>
           <attvalue for="0" value="2510" />
-          <attvalue for="1" value="rock music, rock, pop rock, soft rock, country rock (early), hard rock (later)" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, pop rock, soft rock, country rock (early), hard rock (later)" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.522865168539326" />
           <attvalue for="4" value="2285" />
           <attvalue for="5" value="1958" />
@@ -1436,8 +1436,8 @@
       <node id="Stevie_Nicks" label="Stevie_Nicks">
         <attvalues>
           <attvalue for="0" value="8399" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, folk music, folk" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, pop, folk" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.574061286145879" />
           <attvalue for="4" value="7948" />
           <attvalue for="5" value="6951" />
@@ -1446,8 +1446,8 @@
       <node id="Survivor_(band)" label="Survivor_(band)">
         <attvalues>
           <attvalue for="0" value="4357" />
-          <attvalue for="1" value="rock music, rock, arena rock, hard rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, arena rock, hard rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.540183679614574" />
           <attvalue for="4" value="4067" />
           <attvalue for="5" value="3321" />
@@ -1456,8 +1456,8 @@
       <node id="Ringo_Starr" label="Ringo_Starr">
         <attvalues>
           <attvalue for="0" value="9712" />
-          <attvalue for="1" value="rock music, rock, pop music, pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, pop" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.498275318374772" />
           <attvalue for="4" value="9390" />
           <attvalue for="5" value="8245" />
@@ -1466,8 +1466,8 @@
       <node id="Dan_Fogelberg" label="Dan_Fogelberg">
         <attvalues>
           <attvalue for="0" value="1526" />
-          <attvalue for="1" value="rock music, rock, country music, country, folk music, folk, folk rock, soft rock, pop rock, pop music, pop" />
-          <attvalue for="2" value="11" />
+          <attvalue for="1" value="rock, country, folk, folk rock, soft rock, pop rock, pop" />
+          <attvalue for="2" value="7" />
           <attvalue for="3" value="5.557170693686672" />
           <attvalue for="4" value="1444" />
           <attvalue for="5" value="1283" />
@@ -1506,8 +1506,8 @@
       <node id="Steve_Winwood" label="Steve_Winwood">
         <attvalues>
           <attvalue for="0" value="2708" />
-          <attvalue for="1" value="blue-eyed soul, rhythm and blues, rock music, rock, pop music, pop" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="blue-eyed soul, rhythm and blues, rock, pop" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.542611668185962" />
           <attvalue for="4" value="2497" />
           <attvalue for="5" value="2194" />
@@ -1516,8 +1516,8 @@
       <node id="Roy_Orbison" label="Roy_Orbison">
         <attvalues>
           <attvalue for="0" value="10699" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, country music, country, rock and roll, rockabilly" />
-          <attvalue for="2" value="8" />
+          <attvalue for="1" value="rock, pop, country, rock and roll, rockabilly" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.467562951609372" />
           <attvalue for="4" value="10286" />
           <attvalue for="5" value="9134" />
@@ -1526,8 +1526,8 @@
       <node id="Faces_(band)" label="Faces_(band)">
         <attvalues>
           <attvalue for="0" value="4066" />
-          <attvalue for="1" value="rock music, rock, blues" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="rock, blues" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.529196855775803" />
           <attvalue for="4" value="3240" />
           <attvalue for="5" value="2926" />
@@ -1586,8 +1586,8 @@
       <node id="Eddie_Money" label="Eddie_Money">
         <attvalues>
           <attvalue for="0" value="1392" />
-          <attvalue for="1" value="rock music, rock, pop rock, hard rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, pop rock, hard rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.543472563472563" />
           <attvalue for="4" value="1311" />
           <attvalue for="5" value="1221" />
@@ -1596,8 +1596,8 @@
       <node id="David_Bowie" label="David_Bowie">
         <attvalues>
           <attvalue for="0" value="14438" />
-          <attvalue for="1" value="art rock, glam rock, pop music, pop, electronic music, electronic" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="art rock, glam rock, pop, electronic" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.4803404854610225" />
           <attvalue for="4" value="13881" />
           <attvalue for="5" value="12071" />
@@ -1606,8 +1606,8 @@
       <node id="Van_Morrison" label="Van_Morrison">
         <attvalues>
           <attvalue for="0" value="12591" />
-          <attvalue for="1" value="blue-eyed soul, celtic music, celtic, rock music, rock, rhythm and blues, folk music, folk, blues, jazz, country music, country, gospel music, gospel, christian music, christian" />
-          <attvalue for="2" value="16" />
+          <attvalue for="1" value="blue-eyed soul, celtic, rock, rhythm and blues, folk, blues, jazz, country, gospel, christian" />
+          <attvalue for="2" value="10" />
           <attvalue for="3" value="5.524995668495524" />
           <attvalue for="4" value="11818" />
           <attvalue for="5" value="10389" />
@@ -1636,8 +1636,8 @@
       <node id="John_Lennon" label="John_Lennon">
         <attvalues>
           <attvalue for="0" value="13603" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, experimental music, experimental" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, pop, experimental" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.452827307827308" />
           <attvalue for="4" value="13128" />
           <attvalue for="5" value="11396" />
@@ -1646,8 +1646,8 @@
       <node id="The_Cult" label="The_Cult">
         <attvalues>
           <attvalue for="0" value="7499" />
-          <attvalue for="1" value="hard rock, gothic rock, alternative rock, heavy metal music, heavy metal, post-punk (early)" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="hard rock, gothic rock, alternative rock, heavy metal, post-punk (early)" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.511526918316832" />
           <attvalue for="4" value="7157" />
           <attvalue for="5" value="6464" />
@@ -1656,8 +1656,8 @@
       <node id="Jim_Croce" label="Jim_Croce">
         <attvalues>
           <attvalue for="0" value="1883" />
-          <attvalue for="1" value="folk music, folk, soft rock" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="folk, soft rock" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.486972361809046" />
           <attvalue for="4" value="1810" />
           <attvalue for="5" value="1592" />
@@ -1676,8 +1676,8 @@
       <node id="T._Rex_(band)" label="T._Rex_(band)">
         <attvalues>
           <attvalue for="0" value="4345" />
-          <attvalue for="1" value="glam rock, pop music, pop, psychedelic folk (early)" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="glam rock, pop, psychedelic folk (early)" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.50465552032286" />
           <attvalue for="4" value="4143" />
           <attvalue for="5" value="3469" />
@@ -1686,8 +1686,8 @@
       <node id="Soundgarden" label="Soundgarden">
         <attvalues>
           <attvalue for="0" value="7815" />
-          <attvalue for="1" value="grunge, heavy metal music, heavy metal, alternative metal, alternative rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="grunge, heavy metal, alternative metal, alternative rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.4833594109526" />
           <attvalue for="4" value="7374" />
           <attvalue for="5" value="6519" />
@@ -1696,8 +1696,8 @@
       <node id="Beck" label="Beck">
         <attvalues>
           <attvalue for="0" value="6758" />
-          <attvalue for="1" value="alternative rock, folk rock, psychedelic rock, electronic music, electronic, alternative country, alt-country, lo-fi music, lo-fi (early)" />
-          <attvalue for="2" value="9" />
+          <attvalue for="1" value="alternative rock, folk rock, psychedelic rock, electronic, alternative country, alt-country, lo-fi, lo-fi (early)" />
+          <attvalue for="2" value="8" />
           <attvalue for="3" value="5.519279342312402" />
           <attvalue for="4" value="6514" />
           <attvalue for="5" value="5717" />
@@ -1706,8 +1706,8 @@
       <node id="Oasis_(band)" label="Oasis_(band)">
         <attvalues>
           <attvalue for="0" value="7551" />
-          <attvalue for="1" value="rock music, rock, britpop" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="rock, britpop" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.488178294573644" />
           <attvalue for="4" value="7140" />
           <attvalue for="5" value="6192" />
@@ -1726,8 +1726,8 @@
       <node id="Alter_Bridge" label="Alter_Bridge">
         <attvalues>
           <attvalue for="0" value="3904" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal, alternative metal, progressive metal, alternative rock, post-grunge" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="hard rock, heavy metal, alternative metal, progressive metal, alternative rock, post-grunge" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.579662422268286" />
           <attvalue for="4" value="3655" />
           <attvalue for="5" value="3377" />
@@ -1736,8 +1736,8 @@
       <node id="Neil_Young" label="Neil_Young">
         <attvalues>
           <attvalue for="0" value="11742" />
-          <attvalue for="1" value="rock music, rock, folk rock, country rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, folk rock, country rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.553433463502553" />
           <attvalue for="4" value="11119" />
           <attvalue for="5" value="9987" />
@@ -1756,8 +1756,8 @@
       <node id="The_Rolling_Stones" label="The_Rolling_Stones">
         <attvalues>
           <attvalue for="0" value="15181" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, blues" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, pop, blues" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.46727884909703" />
           <attvalue for="4" value="14444" />
           <attvalue for="5" value="13068" />
@@ -1766,8 +1766,8 @@
       <node id="Tom_Petty" label="Tom_Petty">
         <attvalues>
           <attvalue for="0" value="4258" />
-          <attvalue for="1" value="rock music, rock, heartland rock, roots rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, heartland rock, roots rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.4913312605992095" />
           <attvalue for="4" value="3997" />
           <attvalue for="5" value="3538" />
@@ -1846,8 +1846,8 @@
       <node id="Bob_Dylan" label="Bob_Dylan">
         <attvalues>
           <attvalue for="0" value="17876" />
-          <attvalue for="1" value="contemporary folk music, folk, blues, rock music, rock, gospel music, gospel, country music, country, traditional pop" />
-          <attvalue for="2" value="10" />
+          <attvalue for="1" value="contemporary folk, folk, blues, rock, gospel, country, traditional pop" />
+          <attvalue for="2" value="7" />
           <attvalue for="3" value="5.486805651274983" />
           <attvalue for="4" value="16764" />
           <attvalue for="5" value="14510" />
@@ -1856,8 +1856,8 @@
       <node id="Elvis_Presley" label="Elvis_Presley">
         <attvalues>
           <attvalue for="0" value="16872" />
-          <attvalue for="1" value="rock and roll, pop music, pop, rockabilly, country music, country, gospel music, gospel, rhythm and blues, blue-eyed soul, soul, blues" />
-          <attvalue for="2" value="12" />
+          <attvalue for="1" value="rock and roll, pop, rockabilly, country, gospel, rhythm and blues, blue-eyed soul, soul, blues" />
+          <attvalue for="2" value="9" />
           <attvalue for="3" value="5.473559714045416" />
           <attvalue for="4" value="16316" />
           <attvalue for="5" value="14268" />
@@ -1866,8 +1866,8 @@
       <node id="Duran_Duran" label="Duran_Duran">
         <attvalues>
           <attvalue for="0" value="9749" />
-          <attvalue for="1" value="pop rock, synth-pop, new wave music, new wave, dance-rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="pop rock, synth-pop, new wave, dance-rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.53186052242484" />
           <attvalue for="4" value="9036" />
           <attvalue for="5" value="8116" />
@@ -1886,8 +1886,8 @@
       <node id="Talking_Heads" label="Talking_Heads">
         <attvalues>
           <attvalue for="0" value="2462" />
-          <attvalue for="1" value="new wave music, new wave, post-punk, avant-funk, art pop, worldbeat" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="new wave, post-punk, avant-funk, art pop, worldbeat" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.534883258817684" />
           <attvalue for="4" value="2305" />
           <attvalue for="5" value="2013" />
@@ -1896,8 +1896,8 @@
       <node id="Echo_&amp;_the_Bunnymen" label="Echo_&amp;_the_Bunnymen">
         <attvalues>
           <attvalue for="0" value="4486" />
-          <attvalue for="1" value="post-punk, new wave music, new wave, neo-psychedelia" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="post-punk, new wave, neo-psychedelia" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.475507936507937" />
           <attvalue for="4" value="4273" />
           <attvalue for="5" value="3780" />
@@ -1926,8 +1926,8 @@
       <node id="The_Who" label="The_Who">
         <attvalues>
           <attvalue for="0" value="11403" />
-          <attvalue for="1" value="rock music, rock, hard rock, power pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, hard rock, power pop" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.458261135460198" />
           <attvalue for="4" value="11001" />
           <attvalue for="5" value="9811" />
@@ -2046,8 +2046,8 @@
       <node id="Midnight_Oil" label="Midnight_Oil">
         <attvalues>
           <attvalue for="0" value="7165" />
-          <attvalue for="1" value="alternative rock, hard rock, post-punk, new wave music, new wave" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="alternative rock, hard rock, post-punk, new wave" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.549998246229393" />
           <attvalue for="4" value="6489" />
           <attvalue for="5" value="5702" />
@@ -2086,8 +2086,8 @@
       <node id="The_Jam" label="The_Jam">
         <attvalues>
           <attvalue for="0" value="3300" />
-          <attvalue for="1" value="mod revival, new wave music, new wave, punk rock, power pop" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="mod revival, new wave, punk rock, power pop" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.4722242120343845" />
           <attvalue for="4" value="3133" />
           <attvalue for="5" value="2792" />
@@ -2106,8 +2106,8 @@
       <node id="INXS" label="INXS">
         <attvalues>
           <attvalue for="0" value="5565" />
-          <attvalue for="1" value="new wave music, new wave, pub rock (australia), pub rock, dance-rock, funk rock, alternative rock" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="new wave, pub rock (australia), pub rock, dance-rock, funk rock, alternative rock" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.580180082447385" />
           <attvalue for="4" value="5183" />
           <attvalue for="5" value="4609" />
@@ -2176,8 +2176,8 @@
       <node id="Imagine_Dragons" label="Imagine_Dragons">
         <attvalues>
           <attvalue for="0" value="5336" />
-          <attvalue for="1" value="pop rock, electropop, pop music, pop, arena rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="pop rock, electropop, pop, arena rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.604328953542938" />
           <attvalue for="4" value="4788" />
           <attvalue for="5" value="4262" />
@@ -2226,8 +2226,8 @@
       <node id="The_Cars" label="The_Cars">
         <attvalues>
           <attvalue for="0" value="1852" />
-          <attvalue for="1" value="new wave music, new wave, pop rock, power pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="new wave, pop rock, power pop" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.555557680050988" />
           <attvalue for="4" value="1763" />
           <attvalue for="5" value="1569" />
@@ -2256,8 +2256,8 @@
       <node id="Tenacious_D" label="Tenacious_D">
         <attvalues>
           <attvalue for="0" value="6016" />
-          <attvalue for="1" value="comedy rock, acoustic rock, hard rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="comedy rock, acoustic rock, hard rock, heavy metal" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.519482692307693" />
           <attvalue for="4" value="5804" />
           <attvalue for="5" value="5200" />
@@ -2296,8 +2296,8 @@
       <node id="Disturbed_(band)" label="Disturbed_(band)">
         <attvalues>
           <attvalue for="0" value="4730" />
-          <attvalue for="1" value="heavy metal music, heavy metal, alternative metal, hard rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="heavy metal, alternative metal, hard rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.487244846656611" />
           <attvalue for="4" value="4398" />
           <attvalue for="5" value="3978" />
@@ -2376,8 +2376,8 @@
       <node id="Chris_Cornell" label="Chris_Cornell">
         <attvalues>
           <attvalue for="0" value="10659" />
-          <attvalue for="1" value="alternative metal, heavy metal music, heavy metal, grunge, alternative rock, hard rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="alternative metal, heavy metal, grunge, alternative rock, hard rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.4576538172447115" />
           <attvalue for="4" value="10214" />
           <attvalue for="5" value="9313" />
@@ -2436,8 +2436,8 @@
       <node id="Halestorm" label="Halestorm">
         <attvalues>
           <attvalue for="0" value="2222" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal, alternative metal, post-grunge" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="hard rock, heavy metal, alternative metal, post-grunge" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.619760295021512" />
           <attvalue for="4" value="1907" />
           <attvalue for="5" value="1627" />
@@ -2456,8 +2456,8 @@
       <node id="Tracy_Chapman" label="Tracy_Chapman">
         <attvalues>
           <attvalue for="0" value="1898" />
-          <attvalue for="1" value="folk music, folk, blues rock, pop music, pop, soul music, soul" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="folk, blues rock, pop, soul" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.67" />
           <attvalue for="4" value="1772" />
           <attvalue for="5" value="1546" />
@@ -2466,8 +2466,8 @@
       <node id="Herman's_Hermits" label="Herman's_Hermits">
         <attvalues>
           <attvalue for="0" value="2762" />
-          <attvalue for="1" value="beat, pop rock, bubblegum music, bubblegum" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="beat, pop rock, bubblegum" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.52416553595658" />
           <attvalue for="4" value="2552" />
           <attvalue for="5" value="2211" />
@@ -2476,8 +2476,8 @@
       <node id="The_Beatles" label="The_Beatles">
         <attvalues>
           <attvalue for="0" value="14814" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, beat, psychedelic rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, pop, beat, psychedelic rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.507791952122214" />
           <attvalue for="4" value="14337" />
           <attvalue for="5" value="12699" />
@@ -2526,8 +2526,8 @@
       <node id="The_Police" label="The_Police">
         <attvalues>
           <attvalue for="0" value="5548" />
-          <attvalue for="1" value="new wave music, new wave, reggae rock, post-punk" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="new wave, reggae rock, post-punk" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.4832337131799616" />
           <attvalue for="4" value="5177" />
           <attvalue for="5" value="4651" />
@@ -2546,8 +2546,8 @@
       <node id="Icehouse_(band)" label="Icehouse_(band)">
         <attvalues>
           <attvalue for="0" value="3622" />
-          <attvalue for="1" value="rock music, rock, new wave music, new wave, synth-pop" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, new wave, synth-pop" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.597039187227867" />
           <attvalue for="4" value="3303" />
           <attvalue for="5" value="2756" />
@@ -2556,8 +2556,8 @@
       <node id="The_Pretenders" label="The_Pretenders">
         <attvalues>
           <attvalue for="0" value="2092" />
-          <attvalue for="1" value="rock music, rock, pop rock, new wave music, new wave, alternative rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, pop rock, new wave, alternative rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.490081967213114" />
           <attvalue for="4" value="1956" />
           <attvalue for="5" value="1708" />
@@ -2566,8 +2566,8 @@
       <node id="Ghost_(Swedish_band)" label="Ghost_(Swedish_band)">
         <attvalues>
           <attvalue for="0" value="6601" />
-          <attvalue for="1" value="hard rock, heavy metal music, heavy metal, arena rock, pop rock, progressive rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="hard rock, heavy metal, arena rock, pop rock, progressive rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.493034807831762" />
           <attvalue for="4" value="6242" />
           <attvalue for="5" value="5516" />
@@ -2576,8 +2576,8 @@
       <node id="ABBA" label="ABBA">
         <attvalues>
           <attvalue for="0" value="13179" />
-          <attvalue for="1" value="pop music, pop, disco, pop rock, europop" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="pop, disco, pop rock, europop" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.540512635379061" />
           <attvalue for="4" value="12639" />
           <attvalue for="5" value="11080" />
@@ -2616,8 +2616,8 @@
       <node id="The_Hollies" label="The_Hollies">
         <attvalues>
           <attvalue for="0" value="4533" />
-          <attvalue for="1" value="rock music, rock, pop music, pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, pop" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.44436672967864" />
           <attvalue for="4" value="4220" />
           <attvalue for="5" value="3703" />
@@ -2626,8 +2626,8 @@
       <node id="George_Harrison" label="George_Harrison">
         <attvalues>
           <attvalue for="0" value="10769" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, indian classical music, indian classical" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, pop, indian classical" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.4990546354054635" />
           <attvalue for="4" value="10407" />
           <attvalue for="5" value="9298" />
@@ -2686,8 +2686,8 @@
       <node id="Bee_Gees" label="Bee_Gees">
         <attvalues>
           <attvalue for="0" value="10140" />
-          <attvalue for="1" value="pop music, pop, soul music, soul, disco, rock music, rock, soft rock" />
-          <attvalue for="2" value="8" />
+          <attvalue for="1" value="pop, soul, disco, rock, soft rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.515655879446641" />
           <attvalue for="4" value="9116" />
           <attvalue for="5" value="8096" />
@@ -2706,8 +2706,8 @@
       <node id="Sheryl_Crow" label="Sheryl_Crow">
         <attvalues>
           <attvalue for="0" value="4434" />
-          <attvalue for="1" value="country rock, pop music, pop, folk music, folk, blues, heartland rock" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="country rock, pop, folk, blues, heartland rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.565930384716043" />
           <attvalue for="4" value="4151" />
           <attvalue for="5" value="3821" />
@@ -2716,8 +2716,8 @@
       <node id="Sting_(musician)" label="Sting_(musician)">
         <attvalues>
           <attvalue for="0" value="6760" />
-          <attvalue for="1" value="pop music, pop, new wave music, new wave, post-punk, soft rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="pop, new wave, post-punk, soft rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.509444937045576" />
           <attvalue for="4" value="6246" />
           <attvalue for="5" value="5639" />
@@ -2726,8 +2726,8 @@
       <node id="John_Mayer" label="John_Mayer">
         <attvalues>
           <attvalue for="0" value="10302" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, blues" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, pop, blues" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.564232448377582" />
           <attvalue for="4" value="9527" />
           <attvalue for="5" value="8475" />
@@ -2736,8 +2736,8 @@
       <node id="Tom_Petty_and_the_Heartbreakers" label="Tom_Petty_and_the_Heartbreakers">
         <attvalues>
           <attvalue for="0" value="3118" />
-          <attvalue for="1" value="rock music, rock, heartland rock, southern rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, heartland rock, southern rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.469014247208317" />
           <attvalue for="4" value="2945" />
           <attvalue for="5" value="2597" />
@@ -2746,8 +2746,8 @@
       <node id="Buddy_Holly" label="Buddy_Holly">
         <attvalues>
           <attvalue for="0" value="7096" />
-          <attvalue for="1" value="rock and roll, rockabilly, pop music, pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock and roll, rockabilly, pop" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.485058444858546" />
           <attvalue for="4" value="6890" />
           <attvalue for="5" value="5903" />
@@ -2756,8 +2756,8 @@
       <node id="Bob_Seger" label="Bob_Seger">
         <attvalues>
           <attvalue for="0" value="4312" />
-          <attvalue for="1" value="rock music, rock, heartland rock, roots rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, heartland rock, roots rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.483496115427303" />
           <attvalue for="4" value="4093" />
           <attvalue for="5" value="3604" />
@@ -2766,8 +2766,8 @@
       <node id="Grateful_Dead" label="Grateful_Dead">
         <attvalues>
           <attvalue for="0" value="9010" />
-          <attvalue for="1" value="rock music, rock" />
-          <attvalue for="2" value="2" />
+          <attvalue for="1" value="rock" />
+          <attvalue for="2" value="1" />
           <attvalue for="3" value="5.437974464689453" />
           <attvalue for="4" value="8511" />
           <attvalue for="5" value="7519" />
@@ -2826,8 +2826,8 @@
       <node id="Jack_White" label="Jack_White">
         <attvalues>
           <attvalue for="0" value="10023" />
-          <attvalue for="1" value="blues rock, garage rock revival, alternative rock, punk blues, folk music, folk, country music, country, experimental rock" />
-          <attvalue for="2" value="9" />
+          <attvalue for="1" value="blues rock, garage rock revival, alternative rock, punk blues, folk, country, experimental rock" />
+          <attvalue for="2" value="7" />
           <attvalue for="3" value="5.557079152731327" />
           <attvalue for="4" value="9304" />
           <attvalue for="5" value="8073" />
@@ -2876,8 +2876,8 @@
       <node id="No_Doubt" label="No_Doubt">
         <attvalues>
           <attvalue for="0" value="4174" />
-          <attvalue for="1" value="ska punk, pop rock, new wave music, new wave" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="ska punk, pop rock, new wave" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.496573856975381" />
           <attvalue for="4" value="3855" />
           <attvalue for="5" value="3412" />
@@ -2926,8 +2926,8 @@
       <node id="Charlie_Daniels" label="Charlie_Daniels">
         <attvalues>
           <attvalue for="0" value="2974" />
-          <attvalue for="1" value="southern rock, country rock, progressive country, bluegrass music, bluegrass" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="southern rock, country rock, progressive country, bluegrass" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.500724820901811" />
           <attvalue for="4" value="2768" />
           <attvalue for="5" value="2373" />
@@ -2936,8 +2936,8 @@
       <node id="Steve_Vai" label="Steve_Vai">
         <attvalues>
           <attvalue for="0" value="8109" />
-          <attvalue for="1" value="instrumental rock, hard rock, heavy metal music, heavy metal, progressive metal" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="instrumental rock, hard rock, heavy metal, progressive metal" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.569966245964191" />
           <attvalue for="4" value="7746" />
           <attvalue for="5" value="6814" />
@@ -2976,8 +2976,8 @@
       <node id="Small_Faces" label="Small_Faces">
         <attvalues>
           <attvalue for="0" value="3423" />
-          <attvalue for="1" value="rock music, rock, rhythm and blues, beat, pop music, pop, psychedelic rock, proto-punk, progressive pop" />
-          <attvalue for="2" value="9" />
+          <attvalue for="1" value="rock, rhythm and blues, beat, pop, psychedelic rock, proto-punk, progressive pop" />
+          <attvalue for="2" value="7" />
           <attvalue for="3" value="5.471738980716253" />
           <attvalue for="4" value="3236" />
           <attvalue for="5" value="2904" />
@@ -2986,8 +2986,8 @@
       <node id="Harry_Nilsson" label="Harry_Nilsson">
         <attvalues>
           <attvalue for="0" value="5277" />
-          <attvalue for="1" value="rock music, rock, pop music, pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, pop" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.515706558485463" />
           <attvalue for="4" value="5048" />
           <attvalue for="5" value="4437" />
@@ -2996,8 +2996,8 @@
       <node id="Jerry_Lee_Lewis" label="Jerry_Lee_Lewis">
         <attvalues>
           <attvalue for="0" value="6211" />
-          <attvalue for="1" value="rock and roll, rockabilly, country music, country, gospel music, gospel, honky-tonk#music, honky-tonk" />
-          <attvalue for="2" value="8" />
+          <attvalue for="1" value="rock and roll, rockabilly, country, gospel, honky-tonk#music, honky-tonk" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.485292479108635" />
           <attvalue for="4" value="5908" />
           <attvalue for="5" value="5385" />
@@ -3006,8 +3006,8 @@
       <node id="Status_Quo_(band)" label="Status_Quo_(band)">
         <attvalues>
           <attvalue for="0" value="4828" />
-          <attvalue for="1" value="rock music, rock, boogie rock, hard rock, psychedelic rock, psychedelia (early)" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, boogie rock, hard rock, psychedelic rock, psychedelia (early)" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.507018791264601" />
           <attvalue for="4" value="4468" />
           <attvalue for="5" value="3938" />
@@ -3016,8 +3016,8 @@
       <node id="Bryan_Adams" label="Bryan_Adams">
         <attvalues>
           <attvalue for="0" value="8837" />
-          <attvalue for="1" value="rock music, rock, pop rock, soft rock, arena rock, heartland rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, pop rock, soft rock, arena rock, heartland rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.55047619047619" />
           <attvalue for="4" value="8221" />
           <attvalue for="5" value="7686" />
@@ -3046,8 +3046,8 @@
       <node id="Donovan" label="Donovan">
         <attvalues>
           <attvalue for="0" value="5820" />
-          <attvalue for="1" value="folk rock, folk, pop music, pop, psychedelic rock, rock music, rock" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="folk rock, folk, pop, psychedelic rock, rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.517583248212461" />
           <attvalue for="4" value="5576" />
           <attvalue for="5" value="4895" />
@@ -3136,7 +3136,7 @@
       <node id="Bloodhound_Gang" label="Bloodhound_Gang">
         <attvalues>
           <attvalue for="0" value="2927" />
-          <attvalue for="1" value="comedy rock, alternative rock, rap rock, pop-punk, rap-metal, electronic-rock, new wave music, new-wave" />
+          <attvalue for="1" value="comedy rock, alternative rock, rap rock, pop-punk, rap-metal, electronic-rock, new wave, new-wave" />
           <attvalue for="2" value="8" />
           <attvalue for="3" value="5.516794759825328" />
           <attvalue for="4" value="2619" />
@@ -3146,8 +3146,8 @@
       <node id="Uriah_Heep_(band)" label="Uriah_Heep_(band)">
         <attvalues>
           <attvalue for="0" value="6143" />
-          <attvalue for="1" value="hard rock, progressive rock, heavy metal music, heavy metal" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="hard rock, progressive rock, heavy metal" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.441583509921017" />
           <attvalue for="4" value="5933" />
           <attvalue for="5" value="5191" />
@@ -3176,8 +3176,8 @@
       <node id="The_Mothers_of_Invention" label="The_Mothers_of_Invention">
         <attvalues>
           <attvalue for="0" value="3108" />
-          <attvalue for="1" value="jazz rock, experimental rock, progressive rock, comedy rock, blues rock, avant-garde music, avant-garde, doo-wop, art rock" />
-          <attvalue for="2" value="9" />
+          <attvalue for="1" value="jazz rock, experimental rock, progressive rock, comedy rock, blues rock, avant-garde, doo-wop, art rock" />
+          <attvalue for="2" value="8" />
           <attvalue for="3" value="5.479106650924833" />
           <attvalue for="4" value="2912" />
           <attvalue for="5" value="2541" />
@@ -3206,8 +3206,8 @@
       <node id="Joe_Cocker" label="Joe_Cocker">
         <attvalues>
           <attvalue for="0" value="3518" />
-          <attvalue for="1" value="rock music, rock, blues, blue-eyed soul, pop music, pop" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, blues, blue-eyed soul, pop" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.568137288720249" />
           <attvalue for="4" value="3292" />
           <attvalue for="5" value="2899" />
@@ -3266,8 +3266,8 @@
       <node id="Little_River_Band" label="Little_River_Band">
         <attvalues>
           <attvalue for="0" value="6408" />
-          <attvalue for="1" value="rock music, rock, album-oriented rock, aor, pop rock, soft rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, album-oriented rock, aor, pop rock, soft rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.489502236048998" />
           <attvalue for="4" value="6010" />
           <attvalue for="5" value="5143" />
@@ -3286,8 +3286,8 @@
       <node id="Billy_Idol" label="Billy_Idol">
         <attvalues>
           <attvalue for="0" value="3418" />
-          <attvalue for="1" value="new wave music, new wave, hard rock, pop rock, punk rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="new wave, hard rock, pop rock, punk rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.541922149500517" />
           <attvalue for="4" value="3207" />
           <attvalue for="5" value="2903" />
@@ -3296,8 +3296,8 @@
       <node id="Blondie_(band)" label="Blondie_(band)">
         <attvalues>
           <attvalue for="0" value="6133" />
-          <attvalue for="1" value="new wave music, new wave, punk rock, pop rock, pop music, pop, disco" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="new wave, punk rock, pop rock, pop, disco" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.546207957342084" />
           <attvalue for="4" value="5508" />
           <attvalue for="5" value="4876" />
@@ -3306,8 +3306,8 @@
       <node id="Elvis_Costello" label="Elvis_Costello">
         <attvalues>
           <attvalue for="0" value="12429" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, new wave music, new wave, power pop, punk rock, pub rock (united kingdom), pub rock" />
-          <attvalue for="2" value="10" />
+          <attvalue for="1" value="rock, pop, new wave, power pop, punk rock, pub rock (united kingdom), pub rock" />
+          <attvalue for="2" value="7" />
           <attvalue for="3" value="5.537290473955889" />
           <attvalue for="4" value="11917" />
           <attvalue for="5" value="10655" />
@@ -3326,8 +3326,8 @@
       <node id="The_Kinks" label="The_Kinks">
         <attvalues>
           <attvalue for="0" value="9489" />
-          <attvalue for="1" value="rock music, rock, pop music, pop" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, pop" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.458574956779452" />
           <attvalue for="4" value="9101" />
           <attvalue for="5" value="8098" />
@@ -3336,7 +3336,7 @@
       <node id="The_Sweet" label="The_Sweet">
         <attvalues>
           <attvalue for="0" value="7505" />
-          <attvalue for="1" value="glam rock, hard rock, power pop, bubblegum music, bubblegum (early)" />
+          <attvalue for="1" value="glam rock, hard rock, power pop, bubblegum, bubblegum (early)" />
           <attvalue for="2" value="5" />
           <attvalue for="3" value="5.511383325570564" />
           <attvalue for="4" value="7174" />
@@ -3346,8 +3346,8 @@
       <node id="Badfinger" label="Badfinger">
         <attvalues>
           <attvalue for="0" value="8070" />
-          <attvalue for="1" value="rock music, rock, power pop" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="rock, power pop" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.502473547001993" />
           <attvalue for="4" value="7638" />
           <attvalue for="5" value="6521" />
@@ -3386,8 +3386,8 @@
       <node id="Lenny_Kravitz" label="Lenny_Kravitz">
         <attvalues>
           <attvalue for="0" value="4194" />
-          <attvalue for="1" value="rock music, rock, funk, soul music, soul" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, funk, soul" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.6846891432106395" />
           <attvalue for="4" value="3820" />
           <attvalue for="5" value="3233" />
@@ -3406,8 +3406,8 @@
       <node id="James_Taylor" label="James_Taylor">
         <attvalues>
           <attvalue for="0" value="6856" />
-          <attvalue for="1" value="soft rock, folk music, folk" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="soft rock, folk" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.517237838747686" />
           <attvalue for="4" value="6432" />
           <attvalue for="5" value="5941" />
@@ -3446,8 +3446,8 @@
       <node id="Thousand_Foot_Krutch" label="Thousand_Foot_Krutch">
         <attvalues>
           <attvalue for="0" value="3180" />
-          <attvalue for="1" value="christian rock, christian metal, heavy metal music, heavy metal, hard rock, alternative rock, nu metal" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="christian rock, christian metal, heavy metal, hard rock, alternative rock, nu metal" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.631824489795918" />
           <attvalue for="4" value="2762" />
           <attvalue for="5" value="2450" />
@@ -3556,8 +3556,8 @@
       <node id="Janis_Joplin" label="Janis_Joplin">
         <attvalues>
           <attvalue for="0" value="9659" />
-          <attvalue for="1" value="psychedelic rock, blues rock, soul music, soul, blues" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="psychedelic rock, blues rock, soul, blues" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.480494291807803" />
           <attvalue for="4" value="9110" />
           <attvalue for="5" value="7971" />
@@ -3566,8 +3566,8 @@
       <node id="Jefferson_Starship" label="Jefferson_Starship">
         <attvalues>
           <attvalue for="0" value="3660" />
-          <attvalue for="1" value="rock music, rock, hard rock, psychedelic rock, progressive rock, soft rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, hard rock, psychedelic rock, progressive rock, soft rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.435471509496835" />
           <attvalue for="4" value="3473" />
           <attvalue for="5" value="3001" />
@@ -3586,8 +3586,8 @@
       <node id="Starship_(band)" label="Starship_(band)">
         <attvalues>
           <attvalue for="0" value="1786" />
-          <attvalue for="1" value="rock music, rock, arena rock, pop rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, arena rock, pop rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.42916784203103" />
           <attvalue for="4" value="1679" />
           <attvalue for="5" value="1418" />
@@ -3606,8 +3606,8 @@
       <node id="The_Monkees" label="The_Monkees">
         <attvalues>
           <attvalue for="0" value="8407" />
-          <attvalue for="1" value="pop rock, rock music, rock, bubblegum music, bubblegum, psychedelic rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="pop rock, rock, bubblegum, psychedelic rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.455658403782777" />
           <attvalue for="4" value="7988" />
           <attvalue for="5" value="6979" />
@@ -3616,8 +3616,8 @@
       <node id="Joy_Division" label="Joy_Division">
         <attvalues>
           <attvalue for="0" value="4186" />
-          <attvalue for="1" value="post-punk, punk rock, new wave music, new wave, gothic rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="post-punk, punk rock, new wave, gothic rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.423688325694257" />
           <attvalue for="4" value="4082" />
           <attvalue for="5" value="3709" />
@@ -3636,8 +3636,8 @@
       <node id="Traveling_Wilburys" label="Traveling_Wilburys">
         <attvalues>
           <attvalue for="0" value="4502" />
-          <attvalue for="1" value="rock music, rock" />
-          <attvalue for="2" value="2" />
+          <attvalue for="1" value="rock" />
+          <attvalue for="2" value="1" />
           <attvalue for="3" value="5.508194046937608" />
           <attvalue for="4" value="4256" />
           <attvalue for="5" value="3494" />
@@ -3646,8 +3646,8 @@
       <node id="Duane_Eddy" label="Duane_Eddy">
         <attvalues>
           <attvalue for="0" value="4569" />
-          <attvalue for="1" value="instrumental rock, rockabilly, rock and roll, country music, country" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="instrumental rock, rockabilly, rock and roll, country" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.486352015732547" />
           <attvalue for="4" value="4096" />
           <attvalue for="5" value="3051" />
@@ -3686,8 +3686,8 @@
       <node id="The_Beach_Boys" label="The_Beach_Boys">
         <attvalues>
           <attvalue for="0" value="17451" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, surf music, surf, psychedelic rock" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="rock, pop, surf, psychedelic rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.552521592442645" />
           <attvalue for="4" value="16253" />
           <attvalue for="5" value="14820" />
@@ -3696,8 +3696,8 @@
       <node id="Iggy_Pop" label="Iggy_Pop">
         <attvalues>
           <attvalue for="0" value="6914" />
-          <attvalue for="1" value="rock music, rock, punk rock, proto-punk, hard rock, garage rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, punk rock, proto-punk, hard rock, garage rock" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.5397657443557975" />
           <attvalue for="4" value="6594" />
           <attvalue for="5" value="5891" />
@@ -3756,8 +3756,8 @@
       <node id="Adam_Ant" label="Adam_Ant">
         <attvalues>
           <attvalue for="0" value="6841" />
-          <attvalue for="1" value="new wave music, new wave, post-punk, alternative rock, dance-rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="new wave, post-punk, alternative rock, dance-rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.544161534400845" />
           <attvalue for="4" value="6408" />
           <attvalue for="5" value="5683" />
@@ -3796,8 +3796,8 @@
       <node id="The_Fixx" label="The_Fixx">
         <attvalues>
           <attvalue for="0" value="1224" />
-          <attvalue for="1" value="new wave music, new wave, pop rock, art rock, dance-rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="new wave, pop rock, art rock, dance-rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.52762677484787" />
           <attvalue for="4" value="1123" />
           <attvalue for="5" value="986" />
@@ -3806,8 +3806,8 @@
       <node id="The_Big_Bopper" label="The_Big_Bopper">
         <attvalues>
           <attvalue for="0" value="2931" />
-          <attvalue for="1" value="rock and roll, rockabilly, country music, country" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock and roll, rockabilly, country" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.432593206296604" />
           <attvalue for="4" value="2790" />
           <attvalue for="5" value="2414" />
@@ -3836,8 +3836,8 @@
       <node id="The_Four_Seasons_(band)" label="The_Four_Seasons_(band)">
         <attvalues>
           <attvalue for="0" value="8463" />
-          <attvalue for="1" value="pop rock, pop music, pop, soul music, soul, doo-wop" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="pop rock, pop, soul, doo-wop" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.527048154093098" />
           <attvalue for="4" value="7287" />
           <attvalue for="5" value="6230" />
@@ -3856,8 +3856,8 @@
       <node id="The_Strokes" label="The_Strokes">
         <attvalues>
           <attvalue for="0" value="4571" />
-          <attvalue for="1" value="indie rock, garage rock revival, post-punk revival, new wave music, new wave, synth-pop" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="indie rock, garage rock revival, post-punk revival, new wave, synth-pop" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.539409704852426" />
           <attvalue for="4" value="4357" />
           <attvalue for="5" value="3998" />
@@ -3916,8 +3916,8 @@
       <node id="Linda_Ronstadt" label="Linda_Ronstadt">
         <attvalues>
           <attvalue for="0" value="12473" />
-          <attvalue for="1" value="country music, country, rock music, rock, pop music, pop" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="country, rock, pop" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.578862778406946" />
           <attvalue for="4" value="11938" />
           <attvalue for="5" value="10596" />
@@ -3946,8 +3946,8 @@
       <node id="Mumford_&amp;_Sons" label="Mumford_&amp;_Sons">
         <attvalues>
           <attvalue for="0" value="4576" />
-          <attvalue for="1" value="folk rock, alternative rock, indie folk, americana music, americana, country music, country, bluegrass music, bluegrass" />
-          <attvalue for="2" value="9" />
+          <attvalue for="1" value="folk rock, alternative rock, indie folk, americana, country, bluegrass" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.622490706319702" />
           <attvalue for="4" value="4288" />
           <attvalue for="5" value="3766" />
@@ -3966,8 +3966,8 @@
       <node id="The_Outfield" label="The_Outfield">
         <attvalues>
           <attvalue for="0" value="2762" />
-          <attvalue for="1" value="pop rock, new wave music, new wave" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="pop rock, new wave" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.5053589164785555" />
           <attvalue for="4" value="2511" />
           <attvalue for="5" value="2215" />
@@ -4006,8 +4006,8 @@
       <node id="Mike_and_the_Mechanics" label="Mike_and_the_Mechanics">
         <attvalues>
           <attvalue for="0" value="2605" />
-          <attvalue for="1" value="rock music, rock, pop rock" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="rock, pop rock" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.5651631578947365" />
           <attvalue for="4" value="2209" />
           <attvalue for="5" value="1900" />
@@ -4026,8 +4026,8 @@
       <node id="Chicago_(band)" label="Chicago_(band)">
         <attvalues>
           <attvalue for="0" value="11001" />
-          <attvalue for="1" value="rock music, rock, soft rock, pop rock, jazz rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, soft rock, pop rock, jazz rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.569307521347526" />
           <attvalue for="4" value="10322" />
           <attvalue for="5" value="8549" />
@@ -4046,8 +4046,8 @@
       <node id="Edgar_Winter" label="Edgar_Winter">
         <attvalues>
           <attvalue for="0" value="2369" />
-          <attvalue for="1" value="southern rock, pop music, pop, jazz fusion, blues rock, blue-eyed soul, boogie rock" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="southern rock, pop, jazz fusion, blues rock, blue-eyed soul, boogie rock" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.681419889502763" />
           <attvalue for="4" value="2199" />
           <attvalue for="5" value="1810" />
@@ -4076,8 +4076,8 @@
       <node id="Sublime_with_Rome" label="Sublime_with_Rome">
         <attvalues>
           <attvalue for="0" value="2511" />
-          <attvalue for="1" value="reggae rock, alternative rock, hip hop music, hip hop, dub music, dub, ska punk, punk rock" />
-          <attvalue for="2" value="8" />
+          <attvalue for="1" value="reggae rock, alternative rock, hip hop, dub, ska punk, punk rock" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.567123425692695" />
           <attvalue for="4" value="2284" />
           <attvalue for="5" value="1985" />
@@ -4086,8 +4086,8 @@
       <node id="Saving_Abel" label="Saving_Abel">
         <attvalues>
           <attvalue for="0" value="1343" />
-          <attvalue for="1" value="rock music, rock, hard rock, post-grunge, southern rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, hard rock, post-grunge, southern rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.606686807653575" />
           <attvalue for="4" value="1153" />
           <attvalue for="5" value="993" />
@@ -4166,8 +4166,8 @@
       <node id="Men_at_Work" label="Men_at_Work">
         <attvalues>
           <attvalue for="0" value="3311" />
-          <attvalue for="1" value="new wave music, new wave, pop rock, reggae rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="new wave, pop rock, reggae rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.485301115241636" />
           <attvalue for="4" value="3073" />
           <attvalue for="5" value="2690" />
@@ -4186,8 +4186,8 @@
       <node id="The_Doobie_Brothers" label="The_Doobie_Brothers">
         <attvalues>
           <attvalue for="0" value="6300" />
-          <attvalue for="1" value="rock music, rock, soft rock, pop music, pop, blue-eyed&amp;nbsp;soul" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, soft rock, pop, blue-eyed&amp;nbsp;soul" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.490616876818623" />
           <attvalue for="4" value="6054" />
           <attvalue for="5" value="5155" />
@@ -4196,8 +4196,8 @@
       <node id="Christopher_Cross" label="Christopher_Cross">
         <attvalues>
           <attvalue for="0" value="2482" />
-          <attvalue for="1" value="rock music, rock, pop music, pop, soft rock, yacht rock" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="rock, pop, soft rock, yacht rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.564570837642192" />
           <attvalue for="4" value="2182" />
           <attvalue for="5" value="1934" />
@@ -4206,8 +4206,8 @@
       <node id="Air_Supply" label="Air_Supply">
         <attvalues>
           <attvalue for="0" value="3664" />
-          <attvalue for="1" value="soft rock, pop rock, pop music, pop, adult contemporary music, adult contemporary, middle of the road (music), middle-of-the-road" />
-          <attvalue for="2" value="8" />
+          <attvalue for="1" value="soft rock, pop rock, pop, adult contemporary, middle of the road (music), middle-of-the-road" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.594488503832056" />
           <attvalue for="4" value="3448" />
           <attvalue for="5" value="3001" />
@@ -4226,8 +4226,8 @@
       <node id="Montgomery_Gentry" label="Montgomery_Gentry">
         <attvalues>
           <attvalue for="0" value="3720" />
-          <attvalue for="1" value="country music, country, southern rock, country rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="country, southern rock, country rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.486373056994818" />
           <attvalue for="4" value="3498" />
           <attvalue for="5" value="3088" />
@@ -4246,8 +4246,8 @@
       <node id="Tommy_James_and_the_Shondells" label="Tommy_James_and_the_Shondells">
         <attvalues>
           <attvalue for="0" value="2134" />
-          <attvalue for="1" value="rock music, rock, bubblegum music, bubblegum" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="rock, bubblegum" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.442802983219391" />
           <attvalue for="4" value="1950" />
           <attvalue for="5" value="1609" />
@@ -4276,8 +4276,8 @@
       <node id="Ian_Dury" label="Ian_Dury">
         <attvalues>
           <attvalue for="0" value="3621" />
-          <attvalue for="1" value="new wave music, new wave, punk rock, post-punk, funk, disco, pub rock (united kingdom), pub rock" />
-          <attvalue for="2" value="8" />
+          <attvalue for="1" value="new wave, punk rock, post-punk, funk, disco, pub rock (united kingdom), pub rock" />
+          <attvalue for="2" value="7" />
           <attvalue for="3" value="5.477995242949372" />
           <attvalue for="4" value="3424" />
           <attvalue for="5" value="2943" />
@@ -4286,8 +4286,8 @@
       <node id="Huey_Lewis_and_the_News" label="Huey_Lewis_and_the_News">
         <attvalues>
           <attvalue for="0" value="2640" />
-          <attvalue for="1" value="rock music, rock, new wave music, new wave, rhythm &amp; blues" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, new wave, rhythm &amp; blues" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.495973626373626" />
           <attvalue for="4" value="2527" />
           <attvalue for="5" value="2275" />
@@ -4306,8 +4306,8 @@
       <node id="The_J._Geils_Band" label="The_J._Geils_Band">
         <attvalues>
           <attvalue for="0" value="3288" />
-          <attvalue for="1" value="rock music, rock, blues rock (early), new wave music, new wave (later)" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, blues rock (early), new wave, new wave (later)" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.507890378548896" />
           <attvalue for="4" value="2899" />
           <attvalue for="5" value="2536" />
@@ -4336,8 +4336,8 @@
       <node id="Everlast" label="Everlast">
         <attvalues>
           <attvalue for="0" value="1915" />
-          <attvalue for="1" value="hip hop music, hip hop, folk rock, blues" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="hip hop, folk rock, blues" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.4605321100917426" />
           <attvalue for="4" value="1849" />
           <attvalue for="5" value="1635" />
@@ -4346,8 +4346,8 @@
       <node id="The_Bangles" label="The_Bangles">
         <attvalues>
           <attvalue for="0" value="2568" />
-          <attvalue for="1" value="pop rock, power pop, new wave music, new wave, paisley underground" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="pop rock, power pop, new wave, paisley underground" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.561186700767264" />
           <attvalue for="4" value="2288" />
           <attvalue for="5" value="1955" />
@@ -4356,7 +4356,7 @@
       <node id="Loverboy" label="Loverboy">
         <attvalues>
           <attvalue for="0" value="1974" />
-          <attvalue for="1" value="arena rock, hard rock, pop rock, new wave music, new wave (early)" />
+          <attvalue for="1" value="arena rock, hard rock, pop rock, new wave, new wave (early)" />
           <attvalue for="2" value="5" />
           <attvalue for="3" value="5.520078931390406" />
           <attvalue for="4" value="1843" />
@@ -4366,8 +4366,8 @@
       <node id="The_Everly_Brothers" label="The_Everly_Brothers">
         <attvalues>
           <attvalue for="0" value="4380" />
-          <attvalue for="1" value="rock and roll, rockabilly, country rock, country music, country" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock and roll, rockabilly, country rock, country" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.476652066794415" />
           <attvalue for="4" value="4092" />
           <attvalue for="5" value="3653" />
@@ -4406,8 +4406,8 @@
       <node id="Michael_Martin_Murphey" label="Michael_Martin_Murphey">
         <attvalues>
           <attvalue for="0" value="4017" />
-          <attvalue for="1" value="progressive country, western music (north america), western/cowboy music, bluegrass music, bluegrass" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="progressive country, western music (north america), western/cowboy, bluegrass" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.65954019664546" />
           <attvalue for="4" value="3878" />
           <attvalue for="5" value="3458" />
@@ -4416,8 +4416,8 @@
       <node id="Blue_October" label="Blue_October">
         <attvalues>
           <attvalue for="0" value="4382" />
-          <attvalue for="1" value="alternative rock, art rock, post-grunge, new wave music, new wave, synth-pop, shoegaze" />
-          <attvalue for="2" value="7" />
+          <attvalue for="1" value="alternative rock, art rock, post-grunge, new wave, synth-pop, shoegaze" />
+          <attvalue for="2" value="6" />
           <attvalue for="3" value="5.576179298642534" />
           <attvalue for="4" value="3886" />
           <attvalue for="5" value="3536" />
@@ -4426,8 +4426,8 @@
       <node id="Cake_(band)" label="Cake_(band)">
         <attvalues>
           <attvalue for="0" value="4218" />
-          <attvalue for="1" value="alternative rock, country music, country, indie rock, funk rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="alternative rock, country, indie rock, funk rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.598535338345865" />
           <attvalue for="4" value="3837" />
           <attvalue for="5" value="3325" />
@@ -4496,8 +4496,8 @@
       <node id="Bay_City_Rollers" label="Bay_City_Rollers">
         <attvalues>
           <attvalue for="0" value="7089" />
-          <attvalue for="1" value="pop music, pop, glam rock, pop rock" />
-          <attvalue for="2" value="4" />
+          <attvalue for="1" value="pop, glam rock, pop rock" />
+          <attvalue for="2" value="3" />
           <attvalue for="3" value="5.530015212017494" />
           <attvalue for="4" value="5977" />
           <attvalue for="5" value="5259" />
@@ -4506,8 +4506,8 @@
       <node id="Sam_Fender" label="Sam_Fender">
         <attvalues>
           <attvalue for="0" value="5976" />
-          <attvalue for="1" value="rock music, rock, indie rock, pop rock, heartland rock" />
-          <attvalue for="2" value="5" />
+          <attvalue for="1" value="rock, indie rock, pop rock, heartland rock" />
+          <attvalue for="2" value="4" />
           <attvalue for="3" value="5.556974994917666" />
           <attvalue for="4" value="5645" />
           <attvalue for="5" value="4919" />
@@ -4546,8 +4546,8 @@
       <node id="UB40" label="UB40">
         <attvalues>
           <attvalue for="0" value="4541" />
-          <attvalue for="1" value="reggae, dub music, dub" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="reggae, dub" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.5129461044401005" />
           <attvalue for="4" value="4142" />
           <attvalue for="5" value="3581" />
@@ -4556,8 +4556,8 @@
       <node id="The_Go-Go's" label="The_Go-Go's">
         <attvalues>
           <attvalue for="0" value="2521" />
-          <attvalue for="1" value="new wave music, new wave, pop rock, power pop, post-punk, punk rock (early)" />
-          <attvalue for="2" value="6" />
+          <attvalue for="1" value="new wave, pop rock, power pop, post-punk, punk rock (early)" />
+          <attvalue for="2" value="5" />
           <attvalue for="3" value="5.492913843175218" />
           <attvalue for="4" value="2306" />
           <attvalue for="5" value="2066" />
@@ -4636,8 +4636,8 @@
       <node id="Chris_de_Burgh" label="Chris_de_Burgh">
         <attvalues>
           <attvalue for="0" value="1932" />
-          <attvalue for="1" value="art rock, pop music, pop" />
-          <attvalue for="2" value="3" />
+          <attvalue for="1" value="art rock, pop" />
+          <attvalue for="2" value="2" />
           <attvalue for="3" value="5.495937690897985" />
           <attvalue for="4" value="1827" />
           <attvalue for="5" value="1637" />
